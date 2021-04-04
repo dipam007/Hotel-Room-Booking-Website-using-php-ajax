@@ -6,6 +6,9 @@ Version: 1.0.0
 Last Update: Feb 9, 2019
 ----------------------------------------------------- */
 
+# Hotel Room Booking Website
+ Admin can put hotel rooms photos and services and price of the room. Customers can Book One or many rooms and according to selected rooms total payment amount is shown to the user. For Sign In & Sign Up I use Ajax. Website Provide Room Booking, Add user and edit user at admin side, Sign In, Sign Up, Forgot Password, etc.
+
 /* --------------------------------
 To start 'Gulp' => npm run start
 -------------------------------- */
